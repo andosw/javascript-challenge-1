@@ -3,7 +3,6 @@ TuneIn Code Challenge
 
 
 ###Your mission
-TODO: Follow the instructions in main.js and get the 12 tests to pass.
 
 **_Objective 1_**: Follow the [steps](#getting-started) below to get the project running locally. You should see 12 tests fail.
 
