@@ -26,6 +26,7 @@ From within the project directory
 
 	npm install
 
-#### Start the watcher. When you save changes to your files, the 12 tests we re-run
+#### Start the watcher. 
+Gulp will watch for js file changes and re-run the 12 tests.
 
 	gulp watch
