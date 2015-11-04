@@ -6,7 +6,10 @@ TuneIn Code Challenge
 
 **_Objective 1_**: Follow the [steps](#getting-started) below to get the project running locally. You should see 12 tests fail.
 
-**_Objective 2_**: Follow the TODOs in main.js. Slowly get the 12 tests to pass.
+**_Objective 2_**: Follow the TODOs in main.js. Make changes to get the 12 tests to pass. Feel free to add additional tests. 
+
+After you finish, send us your beautiful work :) 
+Submit main.js and any modified test files via email to Michael (michael@tunein.com)
 
 ###Getting Started
 ####Install Node
